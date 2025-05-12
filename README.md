@@ -8,6 +8,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mikeyshafer/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mikeyshafer/configure-ad)
+- <b>Software Development</b>
+  - [Game development: Ski Slope Sam](https://github.com/mikeyshafer/ski-slope-sam)
 
 <h2>🤳Connect with me:</h2>
 
