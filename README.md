@@ -8,6 +8,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mikeyshafer/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mikeyshafer/configure-ad)
+- <b>IT Home Lab</b>
+  - [Configuring a Type 1 Hypervisor on an Old Laptop (In Progress)](https://github.com/mikeyshafer/configure-hypervisor)
 - <b>Software Development</b>
   - [Game development: Ski Slope Sam](https://github.com/mikeyshafer/ski-slope-sam)
 
