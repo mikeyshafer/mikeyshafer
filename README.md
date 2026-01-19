@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mikey, an <a href="https://www.linkedin.com/in/michael-shafer-/">IT Professional</a></h1>
+<h1>Hi, I'm Mikey!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
