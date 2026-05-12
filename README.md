@@ -1,5 +1,11 @@
 <h1>Hi, I'm Mikey!</h1>
 
+<h2>👨‍💻 Software Engineering Projects:</h2>
+
+- <b>Game Development</b>
+  - [Collision System in C++ and SFML](https://github.com/mikeyshafer/collision-sim)
+ 
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -11,10 +17,6 @@
 - <b>IT Home Lab</b>
   - [Configuring a Type 1 Hypervisor on an Old Laptop](https://github.com/mikeyshafer/configure-hypervisor)
 
-<h2>👨‍💻 Software Development and Coding:</h2>
-
-- <b>Game Development</b>
-  - [Ski Slope Sam](https://github.com/mikeyshafer/ski-slope-sam)
 
 <h2>🤳Connect with me:</h2>
 
